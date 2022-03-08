@@ -23,7 +23,7 @@ import asyncio
 import aiohttp
 import aiofiles
 from config import config
-from core.song import Song
+from song import Song
 from pytube import Playlist
 from pyrogram import Client
 from yt_dlp import YoutubeDL
