@@ -6,7 +6,7 @@
 
 ## U CAN USE THIS BUTTON WITHOUT FORK IF ERROR " Like Salesforce Violate" Then READ DOWN ONE MESSAGE 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDBOYOP/Music-VC)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/MUSICVC)
 
 ------------
 
@@ -14,7 +14,7 @@
 
 - Then Click On Down One Button 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://telegra.ph/file/e969b24b64133152cfd7a.jpg)](https://heroku.com/deploy/)
 
 
 -------------
@@ -23,7 +23,7 @@
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-OS/Music-VC
+$ git clone https://github.com/Adarshtiwari1305/MUSICVC
 $ cd MusicPlayer
 $ cp sample.env .env
 < edit .env with your own values >
