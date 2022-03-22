@@ -19,7 +19,7 @@ import os
 import json
 import asyncio
 from config import config
-from song import Song
+from song import song
 from pyrogram import filters
 from pyrogram.types import Message
 from pytgcalls.types import Update
