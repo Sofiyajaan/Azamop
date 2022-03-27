@@ -14,7 +14,7 @@
 
 - Then Click On Down One Button 
 
-- [![Deploy](https://telegra.ph/file/e969b24b64133152cfd7a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/5f9359d8bc341db3ed027.jpg)](https://heroku.com/deploy/)
 
 
 -------------
@@ -23,7 +23,7 @@
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/Adarshtiwari1305/XMUSICVC
+$ git clone https://github.com/Sofiyajaan/XMUSICVC
 $ cd MusicPlayer
 $ cp sample.env .env
 < edit .env with your own values >
