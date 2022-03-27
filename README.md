@@ -6,7 +6,7 @@
 
 ## U CAN USE THIS BUTTON WITHOUT FORK IF ERROR " Like Salesforce Violate" Then READ DOWN ONE MESSAGE 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/XMUSICVC)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sofiyajaan/XMUSICVC)
 
 ------------
 
@@ -74,3 +74,5 @@ en    English
 
 Music Player is licenced under the GNU Affero General Public License v3.0.
 Read more [here](./LICENSE).
+Short= @azam_sharif_gorup
+Movie channel= @cinema_a2z
