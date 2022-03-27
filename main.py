@@ -52,7 +52,8 @@ from core.decorators import register, language, handle_error, only_admins
 REPO = """
  **Music Player**
 - Repo: [GitHub](https://github.com/Sofiyajaan/MUSICVC)
-- Owner: @Hitler_fed_owner
+- Owner: @Azam_sharif_OWNER
+- chat Gorup:@azam_sharif_gorup
 """
 
 
