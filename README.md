@@ -6,7 +6,7 @@
 
 ## U CAN USE THIS BUTTON WITHOUT FORK IF ERROR " Like Salesforce Violate" Then READ DOWN ONE MESSAGE 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sofiyajaan/XMUSICVC)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sofiyajaan/Azamop)
 
 ------------
 
@@ -23,7 +23,7 @@
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/Sofiyajaan/XMUSICVC
+$ git clone https://github.com/Sofiyajaan/Azamop
 $ cd MusicPlayer
 $ cp sample.env .env
 < edit .env with your own values >
